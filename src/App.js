@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import ytu_logo from './assets/ytu_logo.png'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       </li>
       <h2>Yıldız Teknik Üniversitesi Matematik Mühendisliği</h2>
       <h2>-Yusuf Açmacı</h2>
+      <img src={ytu_logo}/>
      
     </div>
   );
