@@ -4,20 +4,21 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Sanırsam html css öğrenmem gerek</h1>
+      <h1>Neyse, 10 nisan 02.07 itibarı ile dolar 32.25</h1>
+      <li>
+      <a href='https://github.com/yustyy'>Github hesabım</a>  
+      </li>
+      <li>
+      <a href='https://instagram.com/ysfacmc'>Insta hesabım</a>
+      </li>
+
+      <li>
+        <a href='https://place.yildizskylab.com'>YıldızPlace çok güzel gelsenize</a>
+      </li>
+      <h2>Yıldız Teknik Üniversitesi Matematik Mühendisliği</h2>
+      <h2>-Yusuf Açmacı</h2>
+     
     </div>
   );
 }
